@@ -10,6 +10,8 @@ h1 {
     transform: translate(-50%, -50%);
     font-size: 50px;
     position: absolute;
+    
+    color: #000;
 }
 h2 {
     top: 70%;
@@ -17,4 +19,13 @@ h2 {
     transform: translate(-50%, -50%);
     font-size: 50px;
     position: absolute;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
